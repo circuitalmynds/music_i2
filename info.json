@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1035.1314000000002,
+    "videos": [
         "En El Refuego - Grupo Diez 4tro (Official Music Video)-MY1BAMNvS70.mp4",
         "Dig Dirty Doggy - Stray Cats-LmwqaAzMXSw.mp4",
         "Grupo Bryndis - Quizás Si, Quizás No (Video Oficial)-cgTuDu8sLZQ.mp4",
@@ -100,7 +101,5 @@
         "Elton John - Bennie And The Jets (Official Music Video)-wo1OwRTRKRk.mp4",
         "Grupo Codiciado x Gera MX  - Desde Afuera [Official Video]-3dzs3K1soeQ.mp4",
         "Franc Moody - Terra Firma-6oWf3lQS6dU.mp4"
-    ],
-    "id": "i2",
-    "total_size": 987.1780126953124
+    ]
 }
